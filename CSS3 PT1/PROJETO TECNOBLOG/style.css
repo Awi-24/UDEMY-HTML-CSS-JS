@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: trebuchet, helvetica, sans-serif;
+    background-color: #e6e6e6;
+
+}
+
+/** Layout */
+
+#area-cabecalho{
+    background-color: #f7b600;
+    text-align: center;
+    padding: 15px;
+
+}
+
+#area-logo, #area-menu {
+    padding: 10px;
+
+}
+/** Menu */
+
+a:link, a:visited{
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+a:hover{
+    color: #f7b600;
+    background-color: white;
+}
+
+
+/** Geral **/
+
+h1{
+    font-size: 2.5em;
+    color: #4e4e4e;
+
+}
+
+.branco{
+    color: white;
+}
+
+.a
